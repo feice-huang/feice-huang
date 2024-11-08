@@ -2,6 +2,10 @@
 
 我是清华大学深圳国际研究生院硕士研究生，致力于三维重建等领域的研究。
 
+联系方式：
+Email: hfc24@mails.tsinghua.edu.cn
+Github: https://github.com/feice-huang
+
 <!--
 **feice-huang/feice-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
